@@ -40,7 +40,7 @@ Sobre mi = {
 <h3 align="center">Frontend 🎨</h3>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile -->
-<code><img src="./icons//tech/html_original_wordmark_logo_icon_146478.png" alt="HTML5"/></code>&nbsp;
+<code><img src="./icons//tech/Html.png" alt="HTML5"/></code>&nbsp;
 <code><img src="./icons//tech/CSS.png" alt="CSS"/></code>&nbsp;
 <code><img src="./icons//tech/SASS.png" alt="SASS"/></code>&nbsp;
 <code><img src="./icons//tech/Bootstrap.png" alt="Bootstrap"/></code>&nbsp;
