@@ -10,12 +10,6 @@
 
 <h3 align="center">Contactame:</h3>
 <p align="center">
-  <a href="#" target="_blank">
-    <img align="center" src="#" alt="Jose Angel Rey" height="30" width="40" />
-  </a>
-<!--   <a href="https://jose-angel-rey.vercel.app/" target="_blank">
-    <img align="center" src="./icons/Web.svg" alt="Jose Angel Rey" height="25" width="35" />
-  </a> -->
   <a href="mailto:dev.joseangel.rey@gmail.com" target="_blank">
     <img align="center" src="./icons/logos_google-gmail.svg" alt="Jose Angel Rey" height="25" width="30" />
   </a>
