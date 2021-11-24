@@ -22,11 +22,11 @@
 
 ```js
 Sobre mi = {
-     "Soy un desarrollador autodidacta 👨🏻‍💻",
      "Estoy interesado tanto en el Front-End como en el Back-End 💻",
-     "Organización 🗃",
-     "Creatividad 🎨",
-     "Puntualidad ⌚",
+     "Autodidacta 👨🏻‍💻",
+     "Organizado 🗃",
+     "Creativo 🎨",
+     "Puntual ⌚",
      "Trabajo en equipo 👨🏽‍🤝‍👨",
      "Facilidad de adaptación ⚙",
      "Me encata estar aprendiendo constantemente 📚"
