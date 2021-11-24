@@ -6,12 +6,12 @@
 
 <h1 align="center">Holaa! <img src="./icons/Hi.gif" width="48px">, soy Eduardo Banegas</h1>
 <h3 align="center">✨Un apacionado desarrollador web full stack✨</h3>
-<p align="center"> 🧠 Me interesa agregar valor a una empresa, compartir y adquirir conocimientos a diario y avanzar en esta hermosa comunidad de TI. </p>
+<p align="center"> 🧠 Me interesa agregar valor a una empresa, compartir y adquirir conocimientos a diario y avanzar en esta hermosa comunidad de TI. 🧠</p>
 
 <h3 align="center">Contactame:</h3>
 <p align="center">
-  <a href="mailto:dev.joseangel.rey@gmail.com" target="_blank">
-    <img align="center" src="./icons/logos_google-gmail.svg" alt="Jose Angel Rey" height="25" width="30" />
+  <a href="mailto:l.eduardo.banegas@gmail.com" target="_blank">
+    <img align="center" src="./icons/logos_google-gmail.svg" alt="Eduardo Banegas" height="25" width="30" />
   </a>
  <a href="https://www.freecodecamp.org/jose-angel-rey" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/freecodecamp.svg" alt="Jose Angel Rey's FreeCodeCamp profile" height="30" width="40" />
