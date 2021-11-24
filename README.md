@@ -37,7 +37,7 @@ Sobre mi = {
 <!-- ----------------------------------------------------------------------------------- -->
 <h2 align="center">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
-<h3 align="center">Frontend 🎨</h3>
+<h3 align="center">Front-End 🎨</h3>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile -->
 <code><img src="./icons//icons/Html.png" alt="HTML5"/></code>&nbsp;
@@ -54,7 +54,7 @@ Sobre mi = {
 <code><img src="./icons//icons/jquery_original_wordmark_logo_icon_146447.png" alt="jQuery"/></code>&nbsp;
 </p>
 
-<h3 align="center">Backend and Databases 🗄</h3>
+<h3 align="center">Back-End y Base de Datos 🗄</h3>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile -->
 <code><img src="./icons//icons/nodejs_original_wordmark_logo_icon_146412.png" alt="Node"/></code>&nbsp;
@@ -63,10 +63,10 @@ Sobre mi = {
 <code><img src="./icons//icons/sequelize_original_wordmark_logo_icon_146349.png" alt="Sequelize"/></code>&nbsp;
 </p>
 
-<h3 align="center">More tools 🔨</h3>
+<h3 align="center">Mas herramientas 🔨</h3>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
-<code><img src="./icons//tech/git_original_wordmark_logo_icon_146510.pn" alt="Gi"/></code>&nbsp;
+<code><img src="./icons//tech/git_original_wordmark_logo_icon_146510.png" alt="Gi"/></code>&nbsp;
 <code><img src="./icons//tech/figma_logo_icon_147289.png" alt="Figma"/></code>&nbsp;
 </p>
 <!-- ------------------------------------------------------------------------------------- -->
