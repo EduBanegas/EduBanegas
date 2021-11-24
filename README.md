@@ -5,7 +5,7 @@
 </h1> -->
 
 <h1 align="center">Holaa! <img src="./icons/Hi.gif" width="48px">, soy Eduardo Banegas</h1>
-<h3 align="center">✨Un apacionado desarrolador web full stack✨</h3>
+<h3 align="center">✨Un apacionado desarrollador web full stack✨</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jose-Angel-Rey&label=Profile%20views&color=0f7d16&style=flat" alt="Jose-Angel-Rey" /> </p>
 
 <h3 align="center">Connect with me:</h3>
