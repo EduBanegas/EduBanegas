@@ -13,11 +13,8 @@
   <a href="mailto:l.eduardo.banegas@gmail.com" target="_blank">
     <img align="center" src="./icons/logos_google-gmail.svg" alt="Eduardo Banegas" height="25" width="30" />
   </a>
- <a href="https://www.freecodecamp.org/jose-angel-rey" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.4.0/icons/freecodecamp.svg" alt="Jose Angel Rey's FreeCodeCamp profile" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/jose-angel-rey/" target="_blank">
-    <img align="center" src="./icons/logos_linkedin-icon.svg" alt="Jose Angel Rey" height="30" width="40" />
+  <a href="linkedin.com/in/eduardo-banegas-85330a174" target="_blank">
+    <img align="center" src="./icons/logos_linkedin-icon.svg" alt="Eduardo Banegas" height="30" width="40" />
   </a>
 </p>
 
