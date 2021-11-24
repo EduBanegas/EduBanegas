@@ -43,30 +43,31 @@ Sobre mi = {
 <code><img src="./icons//icons/Html.png" alt="HTML5"/></code>&nbsp;
 <code><img src="./icons//icons/css_original_wordmark_logo_icon_146576.png" alt="CSS"/></code>&nbsp;
 <code><img src="./icons//icons/less_plain_wordmark_logo_icon_146437.png" alt="SASS"/></code>&nbsp;
-<code><img src="./icons//icons/Bootstrap.png" alt="Bootstrap"/></code>&nbsp;
+<code><img src="./icons//icons/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap"/></code>&nbsp;
 </p>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile  -->
-<code><img src="./icons//icons/Javascript.png" alt="Javascript"/></code>&nbsp;
-<code><img src="./icons//icons/Typescript.png" alt="Typescript"/></code>&nbsp;
-<code><img src="./icons//icons/React.png" alt="React"/></code>&nbsp;
-<code><img src="./icons//icons/Redux.png" alt="Redux"/></code>&nbsp;
+<code><img src="./icons//icons/javascript_original_logo_icon_146455.png" alt="Javascript"/></code>&nbsp;
+<code><img src="./icons//icons/file_type_typescript_official_icon_130107.png" alt="Typescript"/></code>&nbsp;
+<code><img src="./icons//icons/react_original_wordmark_logo_icon_146375.png" alt="React"/></code>&nbsp;
+<code><img src="./icons//icons/redux_original_logo_icon_146365.png" alt="Redux"/></code>&nbsp;
+<code><img src="./icons//icons/jquery_original_wordmark_logo_icon_146447.png" alt="jQuery"/></code>&nbsp;
 </p>
 
 <h3 align="center">Backend and Databases 🗄</h3>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile -->
-<code><img src="./icons//icons/Node.png" alt="Node"/></code>&nbsp;
-<code><img src="./icons//icons/Express.png" alt="Express"/></code>&nbsp;
-<code><img src="./icons//icons/Postgre.png" alt="Postgre"/></code>&nbsp;
-<code><img src="./icons//icons/Sequelize.png" alt="Sequelize"/></code>&nbsp;
+<code><img src="./icons//icons/nodejs_original_wordmark_logo_icon_146412.png" alt="Node"/></code>&nbsp;
+<code><img src="./icons//icons/express_original_wordmark_logo_icon_146528.png" alt="Express"/></code>&nbsp;
+<code><img src="./icons//icons/postgresql_plain_wordmark_logo_icon_146390.png" alt="Postgre"/></code>&nbsp;
+<code><img src="./icons//icons/sequelize_original_wordmark_logo_icon_146349.png" alt="Sequelize"/></code>&nbsp;
 </p>
 
 <h3 align="center">More tools 🔨</h3>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
-<code><img src="./icons//tech/GIT.png" alt="Gi"/></code>&nbsp;
-<code><img src="./icons//tech/Figma.png" alt="Figma"/></code>&nbsp;
+<code><img src="./icons//tech/git_original_wordmark_logo_icon_146510.pn" alt="Gi"/></code>&nbsp;
+<code><img src="./icons//tech/figma_logo_icon_147289.png" alt="Figma"/></code>&nbsp;
 </p>
 <!-- ------------------------------------------------------------------------------------- -->
 
