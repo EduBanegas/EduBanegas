@@ -6,7 +6,7 @@
 
 <h1 align="center">Holaa! <img src="./icons/Hi.gif" width="48px">, soy Eduardo Banegas</h1>
 <h3 align="center">✨Un apacionado desarrollador web full stack✨</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jose-Angel-Rey&label=Profile%20views&color=0f7d16&style=flat" alt="Jose-Angel-Rey" /> </p>
+<p align="center"> 🧠 Me interesa agregar valor a una empresa, compartir y adquirir conocimientos a diario y avanzar en esta hermosa comunidad de TI. </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
