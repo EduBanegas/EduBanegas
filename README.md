@@ -72,13 +72,6 @@ About Me = {
 
 ---
 
-<a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Angel-Rey&theme=chartreuse-dark&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages By Me"/></p></a>
-
-<a href="https://avipatilweb.me/"><p align="center">&nbsp;<img align="center" href="https://github.com/Jose-Angel-Rey" src="https://github-readme-stats.vercel.app/api?username=Jose-Angel-Rey&theme=chartreuse-dark&show_icons=true" alt="avipatilpro"/></p></a>
-
-<p align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-angel-rey&theme=chartreuse-dark&show_icons=true" alt="jose-angel-rey" />
-</p>
 
 <!-- 
 <p align="center"> 
