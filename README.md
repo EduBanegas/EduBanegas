@@ -41,25 +41,25 @@ Sobre mi = {
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile -->
 <code><img src="./icons//icons/Html.png" alt="HTML5"/></code>&nbsp;
-<code><img src="./icons//tech/CSS.png" alt="CSS"/></code>&nbsp;
-<code><img src="./icons//tech/SASS.png" alt="SASS"/></code>&nbsp;
-<code><img src="./icons//tech/Bootstrap.png" alt="Bootstrap"/></code>&nbsp;
+<code><img src="./icons//icons/css_original_wordmark_logo_icon_146576.png" alt="CSS"/></code>&nbsp;
+<code><img src="./icons//icons/less_plain_wordmark_logo_icon_146437.png" alt="SASS"/></code>&nbsp;
+<code><img src="./icons//icons/Bootstrap.png" alt="Bootstrap"/></code>&nbsp;
 </p>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile  -->
-<code><img src="./icons//tech/Javascript.png" alt="Javascript"/></code>&nbsp;
-<code><img src="./icons//tech/Typescript.png" alt="Typescript"/></code>&nbsp;
-<code><img src="./icons//tech/React.png" alt="React"/></code>&nbsp;
-<code><img src="./icons//tech/Redux.png" alt="Redux"/></code>&nbsp;
+<code><img src="./icons//icons/Javascript.png" alt="Javascript"/></code>&nbsp;
+<code><img src="./icons//icons/Typescript.png" alt="Typescript"/></code>&nbsp;
+<code><img src="./icons//icons/React.png" alt="React"/></code>&nbsp;
+<code><img src="./icons//icons/Redux.png" alt="Redux"/></code>&nbsp;
 </p>
 
 <h3 align="center">Backend and Databases 🗄</h3>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile -->
-<code><img src="./icons//tech/Node.png" alt="Node"/></code>&nbsp;
-<code><img src="./icons//tech/Express.png" alt="Express"/></code>&nbsp;
-<code><img src="./icons//tech/Postgre.png" alt="Postgre"/></code>&nbsp;
-<code><img src="./icons//tech/Sequelize.png" alt="Sequelize"/></code>&nbsp;
+<code><img src="./icons//icons/Node.png" alt="Node"/></code>&nbsp;
+<code><img src="./icons//icons/Express.png" alt="Express"/></code>&nbsp;
+<code><img src="./icons//icons/Postgre.png" alt="Postgre"/></code>&nbsp;
+<code><img src="./icons//icons/Sequelize.png" alt="Sequelize"/></code>&nbsp;
 </p>
 
 <h3 align="center">More tools 🔨</h3>
