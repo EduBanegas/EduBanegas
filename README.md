@@ -8,11 +8,11 @@
 <h3 align="center">✨Un apacionado desarrollador web full stack✨</h3>
 <p align="center"> 🧠 Me interesa agregar valor a una empresa, compartir y adquirir conocimientos a diario y avanzar en esta hermosa comunidad de TI. </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contactame:</h3>
 <p align="center">
-<!--   <a href="#" target="_blank">
+  <a href="#" target="_blank">
     <img align="center" src="#" alt="Jose Angel Rey" height="30" width="40" />
-  </a> -->
+  </a>
 <!--   <a href="https://jose-angel-rey.vercel.app/" target="_blank">
     <img align="center" src="./icons/Web.svg" alt="Jose Angel Rey" height="25" width="35" />
   </a> -->
