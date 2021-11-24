@@ -66,8 +66,8 @@ Sobre mi = {
 <h3 align="center">Mas herramientas 🔨</h3>
 <p align="center">     
 <!--  These logos are copyrighted and may only be used in this Github profile: https://github.com/Jose-Angel-Rey/Jose-Angel-Rey  -->
-<code><img src="./icons//tech/git_original_wordmark_logo_icon_146510.png" alt="Gi"/></code>&nbsp;
-<code><img src="./icons//tech/figma_logo_icon_147289.png" alt="Figma"/></code>&nbsp;
+<code><img src="./icons//icons/git_original_wordmark_logo_icon_146510.png" alt="Gi"/></code>&nbsp;
+<code><img src="./icons//icons/figma_logo_icon_147289.png" alt="Figma"/></code>&nbsp;
 </p>
 <!-- ------------------------------------------------------------------------------------- -->
 
