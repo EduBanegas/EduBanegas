@@ -87,9 +87,7 @@ About Me = {
  -->
  
 
-<br/>
-<a href="https://github.com/Jose-Angel-Rey/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jose-Angel-Rey&bg_color=0D1117&color=4bc46b&line=4bc46b&point=FFFFFF&hide_border=true" /></a>
-<br/>
+
 
 
 <!-- ![Jose Angel Rey Github banner](Github-banner.webp) -->
