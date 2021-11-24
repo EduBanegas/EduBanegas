@@ -6,7 +6,7 @@
 
 <h1 align="center">Holaa! <img src="./icons/Hi.gif" width="48px">, soy Eduardo Banegas</h1>
 <h3 align="center">✨Un apacionado desarrollador web full stack✨</h3>
-<p align="center"> 🧠 Me interesa agregar valor a una empresa, compartir y adquirir conocimientos a diario mientras avanzo en esta hermosa comunidad de TI. 🧠</p>
+<p align="center"> 🧠 Me interesa agregar valor a una empresa, compartir y adquirir conocimientos a diario mientras avanzo en esta hermosa comunidad 🧠</p>
 
 <h3 align="center">Contactame:</h3>
 <p align="center">
