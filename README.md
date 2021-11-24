@@ -4,8 +4,8 @@
     </a>
 </h1> -->
 
-<h1 align="center">Hi <img src="./icons/Hi.gif" width="48px">, I'm Eduardo Banegas</h1>
-<h3 align="center">A passionate Frontend Developer from Venezuela</h3>
+<h1 align="center">Holaa! <img src="./icons/Hi.gif" width="48px">, soy Eduardo Banegas</h1>
+<h3 align="center">✨A passionate Frontend Developer and Photographer from Argentina✨</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jose-Angel-Rey&label=Profile%20views&color=0f7d16&style=flat" alt="Jose-Angel-Rey" /> </p>
 
 <h3 align="center">Connect with me:</h3>
