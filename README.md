@@ -22,11 +22,14 @@
 
 ```js
 Sobre mi = {
-    "I am self-taught developer 👨🏻‍💻",
-    "I am mainly interested in Frontend Development 💻",
-    "I like to keep abreast of trends related to user interface design 🎨",
-    "I am constantly learning Javascript related technologies 📚",
-    Currently_learning: ["Typescript", "NextJS"]
+     "Soy un desarrollador autodidacta 👨🏻‍💻",
+     "Estoy interesado tanto en el Front-End como en el Back-End 💻",
+     "Organización 🗃",
+     "Creatividad 🎨",
+     "Puntualidad ⌚",
+     "Trabajo en equipo 👨🏽‍🤝‍👨",
+     "Facilidad de adaptación ⚙",
+     "Me encata estar aprendiendo constantemente 📚"
 }
 ```
 
