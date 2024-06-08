@@ -13,7 +13,7 @@
   <a href="mailto:l.eduardo.banegas@gmail.com" target="_blank">
     <img align="center" src="./icons/logos_google-gmail.svg" alt="Eduardo Banegas" height="25" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/eduardo-banegas-85330a174/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-banegas-85330a174/" target="_blank">
     <img align="center" src="./icons/logos_linkedin-icon.svg" alt="Eduardo Banegas" height="30" width="40" />
   </a>
 </p>
